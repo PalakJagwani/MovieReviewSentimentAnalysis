@@ -45,7 +45,7 @@ The Simple RNN model architecture is as follows:
 
 ## Live link for the project : Deployed using Streamlit
 ```
-
+https://moviereviewsentimentanalysis-gugdn8a4xuter3hnpgsqyp.streamlit.app/
 ```
 
 ## This project was completed as part of the Complete Data Science Bootcamp course by Krish Naik on Udemy. 
